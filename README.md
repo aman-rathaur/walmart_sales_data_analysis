@@ -1,5 +1,10 @@
 # walmart_sales_data_analysis
 #About
+
+
+
+
+
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 "In this recruiting competition, job-seekers are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and participants must project the sales for each department in each store. To add to the challenge, selected holiday markdown events are included in the dataset. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact." source
 Purposes Of The Project
@@ -39,6 +44,9 @@ This analysis aims to uncover the different customers segments, purchase trends 
 1.	Add a new column named time_of_day to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
 2.	Add a new column named day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
 3.	Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and #profit.
+
+
+
 2.	Exploratory Data Analysis (EDA): Exploratory data analysis is done to answer the listed questions and aims of this project.
 3.	Conclusion:
 Business Questions To Answer
@@ -46,6 +54,9 @@ Generic Question
 1.	How many unique cities does the data have?
 2.	In which city is each branch?
 #Product
+
+
+
 1.	How many unique product lines does the data have?
 2.	What is the most common payment method?
 3.	What is the most selling product line?
@@ -59,11 +70,16 @@ Generic Question
 11.	What is the most common product line by gender?
 12.	What is the average rating of each product line?
 #Sales
+
+
 1.	Number of sales made in each time of the day per weekday
 2.	Which of the customer types brings the most revenue?
 3.	Which city has the largest tax percent/ VAT (Value Added Tax)?
 4.	Which customer type pays the most in VAT?
 #Customer
+
+
+
 1.	How many unique customer types does the data have?
 2.	How many unique payment methods does the data have?
 3.	What is the most common customer type?
